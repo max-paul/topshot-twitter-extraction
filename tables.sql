@@ -4,7 +4,7 @@ CREATE TABLE twitter_user(
     realname char(50),
     username char(50),
     user_id BIGINT NOT NULL,
-    user_loc char(100),
+    user_loc text, -- make text
     user_desc text,
     user_followers int,
     user_friends int,
