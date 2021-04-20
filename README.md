@@ -4,6 +4,8 @@ This project aims to collect Tweets given the key words "nbatopshot", "giveaway"
 
 This data can be used for further analysis of the FLOW blockchain or to show people that it is not always the best idea to share this information online.
 
+This project is created in collaboration with Bryant Univsersity and Professor Kevin Mentzer PhD.
+
 
 # Requirements
 
