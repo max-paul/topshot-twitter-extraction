@@ -32,7 +32,7 @@ This project contains a few different files; and here is what they do.
 	 - each user can tweet many times
 	 - each user can tweet more than one topshot names
 		 - would results in people with duplicate accounts (bad!!!)
-		 - ![image](\assets\SnipImage.png)
+		 - ![image](\assets\SnipImage.JPG)
 
 - 
 
