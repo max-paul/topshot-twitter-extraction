@@ -34,9 +34,10 @@ CREATE TABLE twitter_tweet(
 -- creating table for topshotusername and user id mapping
 
 CREATE TABLE topshot_username(
+    id SERIAL PRIMARY KEY,
     user_id BIGINT NOT NULL,
     ts_username varchar(50), 
-    PRIMARY KEY (user_id),
+    PRIMARY KEY (id),
     CONSTRAINT fk1
         FOREIGN KEY (user_id)
             REFERENCES twitter_user(user_id)
