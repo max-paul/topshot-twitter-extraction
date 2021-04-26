@@ -1,5 +1,7 @@
 # Welcome to Twitter-topshotusername-extractor
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXamNalpak%2Ftopshot-twitter-extraction&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 This project aims to collect Tweets given the key words "nbatopshot", "giveaway" or "TS". With the recent interest in NBATopShot, more people are entering giveawayhs via twitter. People tag their Topshot username with the syntax "TS:" or "TS-".
 
 This data can be used for further analysis of the FLOW blockchain or to show people that it is not always the best idea to share this information online.
